@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Abhishek1305Masstech\ProjectMVC\LoanApplicationWebApi\LoanApplication.Api\LoanApplication.Infrastructure\obj\Debug\net10.0\LoanApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Abhishek1305Masstech\ProjectMVC\LoanApplicationWebApi\LoanApplication.Api\LoanApplication.Infrastructure\obj\Debug\net10.0\LoanApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Abhishek1305Masstech\ProjectMVC\LoanApplicationWebApi\LoanApplication.Api\LoanApplication.Infrastructure\obj\Debug\net10.0\LoanApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\Abhishek1305Masstech\ProjectMVC\LoanApplicationWebApi\LoanApplication.Api\LoanApplication.Infrastructure\obj\Debug\net10.0\LoanApplication.Infrastructure.csproj.CoreCompileInputs.cache
