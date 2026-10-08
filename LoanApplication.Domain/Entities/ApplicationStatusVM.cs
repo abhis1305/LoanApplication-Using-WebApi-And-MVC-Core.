@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LoanApp.Models
 {
@@ -36,6 +37,6 @@ namespace LoanApp.Models
 
         // DROPDOWN
 
-        public List<SelectListItem>? LoanDeals { get; set; }
+      //  public List<SelectListItem>? LoanDeals { get; set; }
     }
 }
