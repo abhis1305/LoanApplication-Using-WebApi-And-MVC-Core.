@@ -24,6 +24,11 @@ builder.Services.AddDbContext<AppDBContext>(options =>
         builder.Configuration.GetConnectionString("dbconn")
     ));
 
+builder.Services.AddMemoryCache();                        // "create the notebook (cache)"
+builder.Services.AddScoped<ISupportTicketService, SupportTicketService>();
+builder.Services.AddScoped<IDashboardService, DashboardService>();
+builder.Services.AddAutoMapper(typeof(SupportTicketProfile));
+
 var app = builder.Build();
 
 // Swagger Middleware
