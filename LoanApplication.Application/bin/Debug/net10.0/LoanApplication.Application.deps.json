@@ -8,12 +8,21 @@
     ".NETCoreApp,Version=v10.0": {
       "LoanApplication.Application/1.0.0": {
         "dependencies": {
+          "AutoMapper": "10.0.0",
           "LoanApplication.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "10.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.12"
         },
         "runtime": {
           "LoanApplication.Application.dll": {}
+        }
+      },
+      "AutoMapper/10.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
         }
       },
       "Azure.Core/1.50.0": {
@@ -969,6 +978,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoMapper/10.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T09NoqMZBqw0/JEauXulxnmmerl0Zj03e0r6VCcJ0LURWBIaYxZPPoiDv8bHf5Y4x2xcXJp4JPXoCaeOMJfHEA==",
+      "path": "automapper/10.0.0",
+      "hashPath": "automapper.10.0.0.nupkg.sha512"
     },
     "Azure.Core/1.50.0": {
       "type": "package",
